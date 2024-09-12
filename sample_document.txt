@@ -1,0 +1,2 @@
+This is a sample document for testing purposes.
+The document contains simple text to be converted into embeddings and processed by the API.
